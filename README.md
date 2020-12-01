@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Data Analyst. I love working on new data projects and analyzing the data to tell insightful stories.
+I am a Data Analyst. I love working on new data projects and analyzing the data to tell insightful stories.
 You can connect with me on shivani.malandkar30@gmail.com.
 
 Here is my [Linkedin Profile](https://www.linkedin.com/in/shivani-malandkar/). 
